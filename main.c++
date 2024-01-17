@@ -7,6 +7,5 @@ int main() {
     cout << a << endl;
 
     a = 0;
-    cin >> a;
     cout << a << endl;
 }
